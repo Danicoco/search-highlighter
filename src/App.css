@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  width:fit-content;
+}
+
+.flex {
+  margin: 5rem;
+}
+
+.mt-3 {
+  margin-top: 1rem;
+}
+
+.basic-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr 1fr;
+}
+
+.result {
+  margin-left: 13rem;
+  margin-right: 15rem;
+}
